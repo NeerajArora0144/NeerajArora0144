@@ -5,8 +5,11 @@
  <br/>
 
 ## 👨🏻‍💻 About Me:
-<img  src="./aboutme.gif" height="290px" align="right" />
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+<img  src="./about me.gif" height="990px" align="right" />
+
+- individuals launching something new
+- small businesses improving their online presence
+- teams that value clarity, trust, and collaboration  
 - 🔭 I’m currently working on `Something Intresting`.
 - 🌱 I’m currently learning `MERN Stack`
 - 👯 I’m looking to collaborate for `Dev Projects`
@@ -14,6 +17,13 @@
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact: I waste most of my time playing games
+
+
+
+- individuals launching something new  
+- small businesses improving their online presence  
+- teams that value clarity, trust, and collaboration  
+
 
 
 
@@ -125,6 +135,15 @@ IoT & Hardware
 <a href="https://www.linux.org/" target="_blank" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 </td>
 </table>
+
+
+## 🤝 Support Me:
+
+<img  src="./about me.gif" height="290px" align="right" />
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
+
 
 
 
