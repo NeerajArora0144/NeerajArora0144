@@ -139,9 +139,9 @@ IoT & Hardware
 
 ## 🤝 Support Me:
 
-<img  src="./about me.gif" height="290px" align="right" />
+<img  src="./coffee.gif" height="120px" align="right" />
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://www.linkedin.com/in/neerajarora0144/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
 
