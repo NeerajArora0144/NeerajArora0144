@@ -1,4 +1,10 @@
-<h1>Hello, I'm Neeraj Arora</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Neeraj Arora</h1>
+<div align="center">
+  <img src ="./banner.png" />
+</div>
+ <br/>
+
+
 <p>Web and AI-ML Developer | Specializing in Machine Learning, Deep Learning, Computer Vision, NLP, and MLOps</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <table>
@@ -108,7 +114,11 @@ IoT & Hardware
 </td>
 </table>
 
+
+
 <h2>⚡️ Where to find me</h2>
+
+  <img  src="./code.gif" height="290px" align="right" />
 
 <a target="_blank" href="https://www.linkedin.com/in/neerajarora0144/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 
