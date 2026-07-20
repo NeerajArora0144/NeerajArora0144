@@ -4,6 +4,18 @@
 </div>
  <br/>
 
+## 👨🏻‍💻 About Me:
+<img  src="./aboutme.gif" height="290px" align="right" />
+- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+- 🔭 I’m currently working on `Something Intresting`.
+- 🌱 I’m currently learning `MERN Stack`
+- 👯 I’m looking to collaborate for `Dev Projects`
+- 🤔 I’m looking for help with `Competitive Programming`
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- ⚡ Fun fact: I waste most of my time playing games
+
+
 
 <p>Web and AI-ML Developer | Specializing in Machine Learning, Deep Learning, Computer Vision, NLP, and MLOps</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -118,7 +130,6 @@ IoT & Hardware
 
 <h2>⚡️ Where to find me</h2>
 
-  <img  src="./code.gif" height="290px" align="right" />
 
 <a target="_blank" href="https://www.linkedin.com/in/neerajarora0144/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 
